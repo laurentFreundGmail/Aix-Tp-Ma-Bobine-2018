@@ -1,0 +1,24 @@
+body{
+	background-color: grey ;
+	color: orange ;
+	text-align: center ;
+}
+
+h1 {
+	color: navy ;
+}
+h2 {
+	color: cyan ;
+}
+
+h3 {
+	color: pink ;
+}
+
+h4 {
+	color : yellow ;
+}
+
+p {
+	color: brown;
+}
